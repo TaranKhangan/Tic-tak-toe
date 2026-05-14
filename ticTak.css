@@ -1,14 +1,14 @@
 body
 {
     text-align: center;
-    background-color: #2A2728;
+    background-color: #2A2728ff;
     color: #ADA199ff;
 }
 h1{
     font-weight: bolder;
     font-size: 40px;
     margin-top: 40px;
-    text-shadow: 12px 13px 6px #3b3236;
+    text-shadow: 6px 4px 6px #3b3236;
 }
 .container{
     height: 80vh;
